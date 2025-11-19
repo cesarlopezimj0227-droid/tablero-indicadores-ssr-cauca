@@ -1,0 +1,62 @@
+/* Fondo general */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    color: #343a40;
+}
+
+/* Título principal */
+.title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+/* Footer */
+.footer {
+    font-size: 0.9rem;
+    text-align: center;
+    color: #6c757d;
+    padding: 20px 0;
+    border-top: 1px solid #dee2e6;
+}
+
+/* Tarjetas */
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Encabezados de tarjeta */
+.card-header {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+/* Gráficos */
+.graph-container {
+    padding: 10px;
+}
+
+/* Dropdowns */
+.Select-control {
+    border-radius: 6px;
+    border-color: #ced4da;
+}
+
+/* Tablas */
+.dash-table-container .dash-spreadsheet {
+    border-radius: 6px;
+    overflow: hidden;
+}
+/* Logo + título */
+.title {
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #007bff;
+    margin: 0;
+}
+
